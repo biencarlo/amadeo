@@ -757,6 +757,7 @@ footer{
         max-width: 100%;
         vertical-align: middle;
         float: none;
+        border-radius: 0 0 7px 7px;
       }
       figure.snip1197 blockquote {
         position: relative;
